@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb1ef039-329c-437b-a3fb-ffc4c9e4aa8b": {
+      "ProjectGuid": "bb1ef039-329c-437b-a3fb-ffc4c9e4aa8b",
+      "DisplayName": "HelpConfig",
+      "ColorIndex": 0
+    },
+    "0af8e897-e98d-45f6-92bc-19d379f39707": {
+      "ProjectGuid": "0af8e897-e98d-45f6-92bc-19d379f39707",
+      "DisplayName": "Web_ECommerce",
+      "ColorIndex": 1
+    },
+    "52df3d0b-689a-4c02-b719-c47a7df628c9": {
+      "ProjectGuid": "52df3d0b-689a-4c02-b719-c47a7df628c9",
+      "DisplayName": "UnitTestEcommerceDDD",
+      "ColorIndex": 2
+    },
+    "2a85466d-8816-4dca-b9ef-ac9713efedfe": {
+      "ProjectGuid": "2a85466d-8816-4dca-b9ef-ac9713efedfe",
+      "DisplayName": "ConsumoAPI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

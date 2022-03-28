@@ -1,0 +1,54 @@
+﻿@model Entities.Entities.LogSistema
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+
+<div>
+    <h4>Log </h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JsonInformacao)
+        </dt>
+        <dd class="col-sm-10">
+
+            <div id="json"></div>
+
+            <input asp-for="JsonInformacao" type="hidden" />
+            @*@Html.DisplayFor(model => model.JsonInformacao)*@
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TipoLog)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TipoLog)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeController)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeController)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeAction)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeAction)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Voltar para lista</a>
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/JsonView.js"></script>
+<script src="~/js/logSistema.js"></script>

@@ -1,0 +1,42 @@
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\HelpConfig.deps.json
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\HelpConfig.dll
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\ref\HelpConfig.dll
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\HelpConfig.pdb
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\ApplicationApp.dll
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Domain.dll
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Entities.dll
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Infrastructure.dll
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\ApplicationApp.pdb
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Infrastructure.pdb
+C:\Projetos\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Entities.pdb
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.csprojAssemblyReference.cache
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.AssemblyInfoInputs.cache
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.AssemblyInfo.cs
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.csproj.CoreCompileInputs.cache
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.csproj.CopyComplete
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.dll
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\ref\HelpConfig.dll
+C:\Projetos\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\HelpConfig.deps.json
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\HelpConfig.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\ref\HelpConfig.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\HelpConfig.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\ApplicationApp.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Domain.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Entities.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\ApplicationApp.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Domain.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\bin\Debug\net5.0\Entities.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.csproj.AssemblyReference.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.AssemblyInfoInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.AssemblyInfo.cs
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.csproj.CoreCompileInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.csproj.CopyComplete
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\ref\HelpConfig.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\HelpConfig\obj\Debug\net5.0\HelpConfig.pdb

@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj": {}
+  },
+  "projects": {
+    "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\Domain.csproj"
+              },
+              "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj",
+        "projectName": "UnitTestEcommerceDDD",
+        "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj",
+        "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\UnitTestEcommerceDDD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Domain\\Domain.csproj"
+              },
+              "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Ecommerce_SEM_ATUALIZACAO\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

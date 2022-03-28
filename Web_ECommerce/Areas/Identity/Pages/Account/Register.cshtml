@@ -1,0 +1,115 @@
+﻿@page
+@model RegisterModel
+@{
+
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+
+            <hr />
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Input.Email"></label>
+                <input asp-for="Input.Email" class="form-control" />
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.Nome"></label>
+                <input asp-for="Input.Nome" class="form-control" />
+                <span asp-validation-for="Input.Nome" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.CPF"></label>
+                <input asp-for="Input.CPF" class="form-control" />
+                <span asp-validation-for="Input.CPF" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.Idade"></label>
+                <input asp-for="Input.Idade" class="form-control" />
+                <span asp-validation-for="Input.Idade" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.Endereco"></label>
+                <input asp-for="Input.Endereco" class="form-control" />
+                <span asp-validation-for="Input.Endereco" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.ComplementoEndereco"></label>
+                <input asp-for="Input.ComplementoEndereco" class="form-control" />
+                <span asp-validation-for="Input.ComplementoEndereco" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.CEP"></label>
+                <input asp-for="Input.CEP" class="form-control" />
+                <span asp-validation-for="Input.CEP" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.Celular"></label>
+                <input asp-for="Input.Celular" class="form-control" />
+                <span asp-validation-for="Input.Celular" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.Telefone"></label>
+                <input asp-for="Input.Telefone" class="form-control" />
+                <span asp-validation-for="Input.Telefone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.Password"></label>
+                <input asp-for="Input.Password" class="form-control" />
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.ConfirmPassword"></label>
+                <input asp-for="Input.ConfirmPassword" class="form-control" />
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Register</button>
+        </form>
+    </div>
+    <div class="col-md-6 col-md-offset-2">
+        <section>
+            <h4>Complete os seus dados</h4>
+            <hr />
+            @{
+                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                {
+                    <div>
+                        <p>
+                            Cadastre-se na Loja Virtual para encontrar todos os produtos que você precisa
+                        </p>
+                    </div>
+                }
+                else
+                {
+                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                        <div>
+                            <p>
+                                @foreach (var provider in Model.ExternalLogins)
+                                {
+                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Utilize seu email para entrar @provider.DisplayName account">@provider.DisplayName</button>
+                                }
+                            </p>
+                        </div>
+                    </form>
+                }
+            }
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

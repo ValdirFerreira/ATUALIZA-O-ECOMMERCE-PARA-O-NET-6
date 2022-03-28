@@ -1,0 +1,30 @@
+C:\Projetos\EcommerceDDD\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Projetos\EcommerceDDD\Domain\bin\Debug\net5.0\Domain.dll
+C:\Projetos\EcommerceDDD\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Projetos\EcommerceDDD\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\EcommerceDDD\Domain\bin\Debug\net5.0\Entities.dll
+C:\Projetos\EcommerceDDD\Domain\bin\Debug\net5.0\Entities.pdb
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.dll
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Projetos\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net5.0\Entities.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\bin\Debug\net5.0\Entities.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Domain\obj\Debug\net5.0\Domain.pdb

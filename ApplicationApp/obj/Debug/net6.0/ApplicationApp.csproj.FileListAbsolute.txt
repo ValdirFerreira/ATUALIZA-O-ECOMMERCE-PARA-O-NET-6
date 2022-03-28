@@ -1,0 +1,17 @@
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.deps.json
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ref\ApplicationApp.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Domain.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Entities.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Domain.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\Entities.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.AssemblyReference.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfoInputs.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfo.cs
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.CopyComplete
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ref\ApplicationApp.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.pdb

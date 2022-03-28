@@ -1,0 +1,52 @@
+﻿@model Entities.Entities.Produto
+
+@{
+    ViewData["Title"] = "RemoverCarrinho";
+}
+
+<h1>Remover produto do Carrinho</h1>
+
+<h3>Desejá realmente remover o produto : @Html.DisplayFor(model => model.Nome) ? </h3>
+<div>
+   
+    <hr />
+    <dl class="row">
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Observacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Observacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Valor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Valor)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QtdCompra)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QtdCompra)
+        </dd>
+    </dl>
+
+    <form asp-action="RemoverCarrinho">
+        <input type="submit" value="Remover" class="btn btn-danger" /> |
+        <a asp-action="ListarProdutosCarrinhoUsuario">Voltar para itens do carrinho</a>
+    </form>
+</div>

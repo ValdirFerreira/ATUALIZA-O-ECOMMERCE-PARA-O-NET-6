@@ -1,0 +1,66 @@
+﻿.ItemTop {
+    height: 100%;
+}
+
+.itemCabecalho {
+    font-size: 115%;
+    font-weight: bold;
+    height: 10%;
+    font-family: myriad;
+}
+
+.itemTitulo {
+    font-weight: bold;
+    font-family: Arial, Verdana, Tahoma,sans-serif;
+    font-size: 14px;
+}
+
+.itemControle {
+    float: right;
+}
+
+.itemBotao, .itemBotaoMax {
+    margin-left: 5px;
+    float: left;
+    width: 17px;
+}
+
+    .itemBotao:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+    .itemBotaoMax :hover {
+        cursor: pointer;
+        opacity: 0.5
+    }
+
+.itemConteudo {
+    height: 82%;
+}
+
+    .itemConteudo ::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+        background-color: #F5F5F5;
+    }
+
+    .itemConteudo::-webkit-scrollbar {
+        width: 6px;
+        background-color: #F5F5F5;
+    }
+
+    .itemConteudo::-webkit-scrollbar-thumb {
+        background-color: #666666;
+    }
+
+
+.efeitoDiv {
+    padding: 1rem;
+    box-shadow: 9px 7px 5px rgba( 50, 50,50, 0.77);
+    border-radius: 7px;
+}
+
+
+.caixaStyle {
+    padding: 1rem;
+}

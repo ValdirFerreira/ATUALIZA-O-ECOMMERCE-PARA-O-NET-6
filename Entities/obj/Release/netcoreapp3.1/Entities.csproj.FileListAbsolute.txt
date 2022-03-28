@@ -1,0 +1,12 @@
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\bin\Release\netcoreapp3.1\Entities.dll
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Release\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Release\netcoreapp3.1\Entities.dll
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Release\netcoreapp3.1\Entities.pdb
+C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Release\netcoreapp3.1\Entities.genruntimeconfig.cache

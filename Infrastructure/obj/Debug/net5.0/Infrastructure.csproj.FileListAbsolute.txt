@@ -1,0 +1,34 @@
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Entities.dll
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Projetos\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

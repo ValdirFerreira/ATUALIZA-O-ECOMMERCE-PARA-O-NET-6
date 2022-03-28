@@ -1,0 +1,17 @@
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\Entities.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\bin\Debug\net6.0\Entities.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb

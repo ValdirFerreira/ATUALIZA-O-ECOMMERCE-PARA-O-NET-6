@@ -1,0 +1,30 @@
+C:\Projetos\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Projetos\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+C:\Projetos\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+C:\Projetos\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.dll
+C:\Projetos\EcommerceDDD\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Projetos\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.dll
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Projetos\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\valdi\Downloads\PROJETO-ECOMMERCE-FINAL-main (1)\PROJETO-ECOMMERCE-FINAL-main\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
